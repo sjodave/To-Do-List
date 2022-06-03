@@ -1,0 +1,15 @@
+li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.head {
+  text-align: center;
+  background-color: bisque;
+  padding: 10px;
+}
+
+.item {
+  justify-content: start;
+}
